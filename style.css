@@ -1,0 +1,23 @@
+.center-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ajusta la altura de la tabla al 100% del viewport */
+}
+
+.center-table {
+    margin: 50px; /* Esto centra la tabla horizontalmente */
+    text-align: center; /* Esto centra el contenido dentro de la tabla horizontalmente */
+}
+.title {
+    text-align: center; /* Esto centra el título */
+}
+
+.content {
+    text-align: justify; /* Esto justifica el contenido */
+}
+
+.image {
+    display: block;
+    margin: 0 auto; /* Esto centra la imagen */
+}

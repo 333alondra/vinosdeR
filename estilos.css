@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration:none;
+}
+
+.logo{
+    width: 125px;
+    margin-right: 8px;
+    margin-left:9px;
+    margin: 20px 6;
+}
+
+.contenedor-padre{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #060606;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    margin: 0 60px;
+    
+}
+
+.nav-link{
+    color: white;
+    transition: .5s ease;
+    padding: 10px;
+}
+
+.nav-link:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.banner img {
+    width: 100%; /* Ajusta el tamaño de la imagen para que ocupe todo el ancho del encabezado */
+    height: auto; /* Esto asegura que la imagen mantenga su proporción */
+    display: block; /* Esto asegura que la imagen se muestre como un bloque */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
